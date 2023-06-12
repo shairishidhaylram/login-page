@@ -1,0 +1,12 @@
+body{
+    background-image: url(./dd.jpg);
+    background-position: center;
+}
+
+.hello{
+    color: rgb(60, 147, 222);
+}
+
+h1{
+    color: rgb(91, 164, 228);
+}
